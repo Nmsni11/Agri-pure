@@ -25,7 +25,7 @@ I targeted a **low-cost**, **renewable**, and **intelligent** device that could 
 - **Output**: Water for crops with minimized chemical & microbial load
 
 
-## 🖼️ Media
+##  Media
 
 | Image |
 |-------|
@@ -33,7 +33,7 @@ I targeted a **low-cost**, **renewable**, and **intelligent** device that could 
 | Agri-pure/photos/im1.jpg | 
 
 
-## 🧾 Bill of Materials (Table Summary)
+## Bill of Materials (Table Summary)
 
 | Component | Quantity | Price (USD) | Link |
 |----------|----------|--------------|------|
