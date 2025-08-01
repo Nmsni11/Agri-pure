@@ -27,10 +27,9 @@ I targeted a **low-cost**, **renewable**, and **intelligent** device that could 
 
 ##  Media
 
-| Image |
-|-------|
-| Agri-pure/photos/im2.jpg |
-| Agri-pure/photos/im1.jpg | 
+- ![alt text](im1.jpg) 
+- ![alt text](im2.jpg) 
+
 
 
 ## Bill of Materials (Table Summary)
