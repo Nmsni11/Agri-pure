@@ -5,7 +5,7 @@ description: "A multi-stage smart water purification system for agricultural run
 created_at: "2/7/2025"
 ---
 
-# ⏱ Total Time Spent: 52 hours
+#  Total Time Spent: 52 hours
 
 ---
 
