@@ -29,7 +29,10 @@ I targeted a **low-cost**, **renewable**, and **intelligent** device that could 
 
 - ![alt text](photos/im1.jpg) 
 - ![alt text](photos/im2.jpg) 
-
+- ![alt text](photos/1.jpg)
+- ![alt text](photos/2.jpg)
+- ![alt text](photos/3.jpg)
+- ![alt text](photos/4.jpg)
 
 
 ## Bill of Materials (Table Summary)
@@ -56,5 +59,6 @@ I targeted a **low-cost**, **renewable**, and **intelligent** device that could 
 ##  ADDITIONAL
 
 If scaled, **Agri-pure** could reduce rural groundwater dependence, fight heavy metal pollution, and improve the food supply chain’s sustainability in Egypt.
+
 
 
