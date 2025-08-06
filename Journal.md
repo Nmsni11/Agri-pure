@@ -96,15 +96,23 @@ created_at: "2/7/2025"
 
 ---
 **Media:**  
-![alt text](im1.jpg)
-![alt text](im2.jpg)
+![alt text](photos/im1.jpg)
+![alt text](photos/im2.jpg)
 
 expected results:
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](photos/image.png)
+![alt text](photos/image-1.png)
+![alt text](photos/image-2.png)
 
 researched equations used when identifying the dimensions and materials:
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
+![alt text](photos/image-3.png)
+![alt text](photos/image-4.png)
+![alt text](photos/image-5.png)
+
+diagram present
+
+- ![alt text](photos/1.jpg)
+- ![alt text](photos/2.jpg)
+- ![alt text](photos/3.jpg)
+- ![alt text](photos/4.jpg)
+  
